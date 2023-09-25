@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../Documents/School/basicComputerOperations/Week3/practiceModule"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Modules_Exercise"
+	}
+}
